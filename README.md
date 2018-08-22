@@ -10,3 +10,6 @@ public\s*([A-Za-z]*)\s*([A-Za-z]*);<br>
 $2 = testBean.$2;<br>
 ![image](https://github.com/qzsang/RegexAdvance/blob/master/doc/5.png)
 ![image](https://github.com/qzsang/RegexAdvance/blob/master/doc/6.png)
+
+更新命令行
+public\s([A-Za-z])*\s([A-Za-z]*);
